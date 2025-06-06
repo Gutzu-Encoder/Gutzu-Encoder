@@ -1,14 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Gutzu-Encoder/Gutzu-Encoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Krityotch Manowatthanakul**, nickname **Guts**.
 
-My name is Krityotch Manowatthanakul, Nick name: Guts
+I'm a medical student at **Ramathibodi Hospital, Mahidol University** (Class of 2024), Thailand.  
+Although my primary path is in clinical medicine, I'm deeply passionate about **Machine Learning (ML)** and **Deep Learning (DL)** — especially their potential to improve real-world healthcare.
 
-I'm a medical student at Ramathibodi Hospital (Class of 2024), Mahidol University, Thailand.
-Altho I'm a med student, I'm a fond of ML, DL.
+---
 
-I'm interested in 
-- NLP: especially clinical language modeling, retrieval-augmented generation (RAG), medical decision support systems and AI tools that improve clinical workflows and reduce physician burden.
-- Computer vision: with a focus on medical imaging and analysis, segmentation (U-Net), and diagnostic aid systems.
+###  My Interests
+
+#### Natural Language Processing (NLP)
+- Clinical language modeling  
+- Retrieval-Augmented Generation (**RAG**)  
+- Medical decision support systems  
+- AI tools that improve **clinical workflows** and reduce **physician burden**
+
+#### Computer Vision
+- Medical imaging and analysis  
+- Segmentation (e.g., **U-Net**)  
+- Diagnostic support systems
+
+---
+
+
 
